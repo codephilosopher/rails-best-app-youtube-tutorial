@@ -24,6 +24,8 @@ gem "turbo-rails"
 
 gem "stimulus-rails"
 
+gem "bulma-rails", "~> 0.9.4"
+
 
 gem "jbuilder"
 
