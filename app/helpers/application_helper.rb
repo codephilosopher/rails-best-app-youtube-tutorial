@@ -1,6 +1,6 @@
 module ApplicationHelper
   def set_title(page_title = "")
-    base_title = "StaticPages"
+    base_title = "BestApp"
     if page_title.empty?
       return base_title
     else
